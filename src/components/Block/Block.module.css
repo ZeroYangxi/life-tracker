@@ -4,7 +4,7 @@
   width: 3rem;
   height: 3rem;
   justify-content: space-evenly;
-  background-color: antiquewhite;
+  background-color: rgb(211, 230, 229);
 }
 
 .blockCompleted {
@@ -13,5 +13,5 @@
 }
 
 .block:hover {
-  background-color: palegoldenrod;
+  background-color: rgba(0, 255, 255, 0.6);
 }
