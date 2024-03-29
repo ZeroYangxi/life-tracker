@@ -1,0 +1,17 @@
+.block {
+  box-sizing: border-box;
+  margin: 1px;
+  width: 3rem;
+  height: 3rem;
+  justify-content: space-evenly;
+  background-color: antiquewhite;
+}
+
+.blockCompleted {
+  background-color: aqua;
+  z-index: 100;
+}
+
+.block:hover {
+  background-color: palegoldenrod;
+}
